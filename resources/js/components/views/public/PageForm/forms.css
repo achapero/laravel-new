@@ -1,0 +1,38 @@
+
+.pre-line {
+    white-space: pre-line;
+}
+
+.hide {
+    display: none;
+}
+
+/* 
+.forminputs input {
+    border: 0px ;
+    border-radius: 0px !important;
+    border-bottom: 1px solid #E4E4E4;
+    padding: 0px !important;
+    font-size: 12px !important;
+}
+
+.forminputs input:focus {
+    box-shadow: none !important
+} */
+
+.border-bottom-danger {
+    border-bottom: 1px solid #f86c6b !important;
+}
+
+.formeo.formeo-render .formeo-row-wrap {
+    margin-bottom: 0px !important;
+}
+
+.formeo.formeo-render .formeo-row {
+    padding: 0px !important;
+}
+
+
+.pagehide {
+    display: none !important;
+}
